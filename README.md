@@ -33,7 +33,7 @@ Keyword Search function, adding products function, login account, creating accou
 #### 3. Go to the file
     cd shopping-cart-app
 
-####4. Install required packages
+#### 4. Install required packages
     npm install
     npm install react-bootstrap bootstrap —force
     npm install react-icons --save  —force
