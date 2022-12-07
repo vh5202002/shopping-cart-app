@@ -1,70 +1,64 @@
-# Getting Started with Create React App
+# Shopping Cart APP
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## AllThePages_
+Homepage
+<img width="1899" alt="Screenshot 2022-12-06 at 7 23 48 PM" src="https://user-images.githubusercontent.com/37912868/206082521-478c7a9c-8fef-4fcc-8ce3-cf59cc77a6ea.png">
 
-In the project directory, you can run:
+The cart
+<img width="1907" alt="Screenshot 2022-12-06 at 7 25 12 PM" src="https://user-images.githubusercontent.com/37912868/206082540-0b00efb8-a3a1-4c66-8b76-b01ee264867c.png">
 
-### `npm start`
+Sign-in
+<img width="1909" alt="Screenshot 2022-12-06 at 7 25 21 PM" src="https://user-images.githubusercontent.com/37912868/206082560-6500afe6-7b69-40b0-a2e5-74e6065318bb.png">
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Create account
+<img width="1895" alt="Screenshot 2022-12-06 at 7 25 38 PM" src="https://user-images.githubusercontent.com/37912868/206082619-5e3396c8-3fa2-48e5-85c4-bf3dc4ea45e5.png">
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+My account
+<img width="1903" alt="Screenshot 2022-12-06 at 7 27 13 PM" src="https://user-images.githubusercontent.com/37912868/206082658-f9d0c119-269f-40f7-b445-55685db67dc5.png">
 
-### `npm test`
+Dark version
+<img width="1891" alt="Screenshot 2022-12-06 at 7 27 20 PM" src="https://user-images.githubusercontent.com/37912868/206082670-3c8888d8-850f-4e09-85b7-a1428fef605f.png">
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Functions_
+Keyword Search function, adding products function, login account, creating account. 
 
-### `npm run build`
+## Instructions_
+#### 1. Install npm
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+#### 2. Open (Terminal)，Copy (Clone)
+  git clone https://github.com/vh5202002/shopping-cart-app.git
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+#### 3. Go to the file
+  cd shopping-cart-app
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+####4. Install required packages
+  npm install
+  npm install react-bootstrap bootstrap —force
+  npm install react-icons --save  —force
+  npm install @reach/router—force
+  npm install react-use-cart —force
+  npm install react-filter-search —force
+  npm install react-lightbox-component —force
+  npm install react-phone-input-2 —force
 
-### `npm run eject`
+#### 5. Run the app
+  npm run start
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+#### 6. Open http://localhost:3000/
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+#### 7. Stop the app
+  ctrl + c ( mac : command + .)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## Development tools_
+  Node.js v16.15.1
+  npm 8.19.2
+  bootstrap
+  react-icons
+  @reach/router
+  react-use-cart
+  react-filter-search
+  react-lightbox-component
+  react-phone-input-2
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
