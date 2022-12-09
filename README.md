@@ -1,6 +1,5 @@
 # Shopping Cart APP
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## AllThePages_
 Homepage
@@ -52,13 +51,13 @@ Keyword Search function, adding products function, login account, creating accou
     ctrl + c ( mac : command + .)
 
 ## Development tools_
-  Node.js v16.15.1
-  npm 8.19.2
-  bootstrap
-  react-icons
-  @reach/router
-  react-use-cart
-  react-filter-search
-  react-lightbox-component
-  react-phone-input-2
+      Node.js v16.15.1
+      npm 8.19.2
+      bootstrap
+      react-icons
+      @reach/router
+      react-use-cart
+      react-filter-search
+      react-lightbox-component
+      react-phone-input-2
 
