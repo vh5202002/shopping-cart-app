@@ -1,24 +1,6 @@
 # Shopping Cart APP
 
-
-## AllThePages_
-Homepage
-<img width="1899" alt="Screenshot 2022-12-06 at 7 23 48 PM" src="https://user-images.githubusercontent.com/37912868/206082521-478c7a9c-8fef-4fcc-8ce3-cf59cc77a6ea.png">
-
-The cart
-<img width="1907" alt="Screenshot 2022-12-06 at 7 25 12 PM" src="https://user-images.githubusercontent.com/37912868/206082540-0b00efb8-a3a1-4c66-8b76-b01ee264867c.png">
-
-Sign-in
-<img width="1909" alt="Screenshot 2022-12-06 at 7 25 21 PM" src="https://user-images.githubusercontent.com/37912868/206082560-6500afe6-7b69-40b0-a2e5-74e6065318bb.png">
-
-Create account
-<img width="1895" alt="Screenshot 2022-12-06 at 7 25 38 PM" src="https://user-images.githubusercontent.com/37912868/206082619-5e3396c8-3fa2-48e5-85c4-bf3dc4ea45e5.png">
-
-My account
-<img width="1903" alt="Screenshot 2022-12-06 at 7 27 13 PM" src="https://user-images.githubusercontent.com/37912868/206082658-f9d0c119-269f-40f7-b445-55685db67dc5.png">
-
-Dark version
-<img width="1891" alt="Screenshot 2022-12-06 at 7 27 20 PM" src="https://user-images.githubusercontent.com/37912868/206082670-3c8888d8-850f-4e09-85b7-a1428fef605f.png">
+![Screen Recording 2023-01-31 at 2 37 12 PM](https://user-images.githubusercontent.com/37912868/215900101-cdb9455c-6183-44fc-aac6-b095ef2a6a12.gif)
 
 ## Functions_
 Keyword Search function, adding products function, login account, creating account. 
